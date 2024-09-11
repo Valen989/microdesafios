@@ -1,0 +1,25 @@
+*{
+    font-family: "roboto", sans-serif;
+
+}
+p{
+    font-size: 12px;
+
+}
+h2{
+    font-size: 24px;
+
+}
+h3{
+    font-size: 16px;
+
+}
+
+header{
+    background-color: var(--color-amarillo);
+
+}
+main{
+
+    width: 90%;
+}
