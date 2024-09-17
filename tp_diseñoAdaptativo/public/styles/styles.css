@@ -18,6 +18,20 @@
     padding: 10px;
 }
 
-.logo-envio{
+.caja--elementos{
+    border-top: 1px;
+    hr{
+        color: #ebebeb;
+    }
+}
+
+@media (min-width: 768px) {
+    .section-box{
+        box-shadow: 0px 0px 10px rgb(100, 100, 100);
+        }
+}
+
+@media (min-width: px) {
+    
 
 }
